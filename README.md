@@ -1,5 +1,7 @@
 # Capstone_Project_4-Unsupervised
 
+Link to the dataset :- https://docs.google.com/spreadsheets/d/1CuXLidLmP4HiEsF7rPdDKsWX4u53eebJ/edit?usp=share_link&ouid=111856697018076451666&rtpof=true&sd=true
+
 Unsupervised machine learning (ML) is a subset of ML in which relationships and patterns in data are discovered without the aid of explicit labelling or human supervision. Identifying structure and patterns within data sets without any prior knowledge of what those patterns might be is the aim of unsupervised learning, in other words.
 
 The identification of key client segments is the aim of this project.
